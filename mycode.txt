@@ -1,6 +1,5 @@
-MY FIRST CODE IN JAVA USING VI EDITOR
-J
-A
-V
-A
-
+Now, adding some lines....
+JA
+VA
+JA
+VA
